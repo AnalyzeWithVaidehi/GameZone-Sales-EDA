@@ -65,6 +65,7 @@ The complete interactive visual data story for this project is hosted live.
 * `insights_logs.xlsx`: My clean audit ledger tracking initial aggregates, outlier metrics, dimensional segments, and final strategic plays.
 * `issues_logs.xlsx`: The fundamental multidimensional matrices calculating monthly, regional, and product revenue structures.
 * `My thought Process.pdf`: My live analytical journal capturing every hypothesis, step-by-step framework application, and raw deduction made during the sprint.
+* `pivot_table_1.csv`: The fundamental multidimensional matrices calculating monthly, regional, and product revenue structures.
 
 ---
 *💡 What's next? Now that the data is clean and the foundational insights are completely mapped, my final phase is transitioning these static discoveries into an interactive executive dashboard layout in Power BI!*
