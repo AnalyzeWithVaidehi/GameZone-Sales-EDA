@@ -56,7 +56,7 @@ At the end of December 2020, revenue experienced a catastrophic crash, plonking 
 
 ## 🖥 Interactive Visualizations
 The complete interactive visual data story for this project is hosted live. 
-* **Explore the Dashboard:** [Vaidehi's GameZone EDA Tableau Workbook](https://public.tableau.com/app/profile/vaidehi.bharambe/viz/GameZoneEDAAnalysis/overallUSD)
+* **Explore the Dashboard:** [GameZone EDA Tableau Workbook](https://public.tableau.com/app/profile/vaidehi.bharambe/viz/GameZoneEDAAnalysis/overallUSD)
 
 ---
 
